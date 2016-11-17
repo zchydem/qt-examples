@@ -1,0 +1,8 @@
+Project enum-example shows how to expose enums to the QML engine by
+
+A) Inheriting enum from a superclass to subclass, which is registered 
+   as a QML type. 
+
+B) How to expose enum from non-QObject class to the QML engine. This 
+   is useful, when class is created only for that purpose.
+
