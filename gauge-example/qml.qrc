@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Gauge.qml</file>
+        <file>img/background.svg</file>
+        <file>img/needle.svg</file>
+        <file>img/tickmark.svg</file>
+    </qresource>
+</RCC>
